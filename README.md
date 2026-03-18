@@ -1,11 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=40&duration=2500&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=900&lines=Saksham+Gaikwad" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=45&duration=2500&pause=700&color=0A84FF&center=true&vCenter=true&width=900&lines=Saksham+Gaikwad" />
 </h1>
 
-<h3 align="center">AI Engineer | Backend Developer | Full Stack Developer</h3>
+<h3 align="center">
+  <b>AI Engineer | Backend Developer | Full Stack Developer</b>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=20&duration=3000&pause=800&color=8E8E93&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A84FF&height=2&section=header"/>
 </p>
 ---
 

@@ -339,7 +339,6 @@ Frontend: HTML, CSS, JavaScript
 Backend: FastAPI  
 Database: SQLite  
 
----
 
 <h2 align="center">Achievements & Milestones</h2>
 
@@ -365,7 +364,7 @@ Database: SQLite
 - Experienced in System Design, creating HLD and LLD diagrams for real-world production-grade systems.  
 - Contributed to AI for Social Good projects, like smart agriculture and women safety platforms.  
 </p>
----
+
 
 ## GitHub Analytics
 

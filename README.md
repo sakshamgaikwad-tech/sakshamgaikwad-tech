@@ -1,5 +1,12 @@
 <h1 align="center">Hi, I'm Saksham Gaikwad</h1>
-<h3 align="center">AI Engineer | Backend Developer | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=AI+Engineer;Backend+Developer;Full+Stack+Developer;Building+Real-World+AI+Systems;Focused+on+Scalable+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -7,7 +14,7 @@
 
 - BSc Computer Science student specializing in AI, ML, and VR  
 - Strong foundation in Data Structures, Algorithms, and System Design  
-- Focused on backend engineering and AI-driven systems  
+- Focused on backend engineering and AI-driven applications  
 - Solved 200+ problems on LeetCode  
 - Participated in 10+ hackathons solving real-world problems  
 
@@ -16,24 +23,24 @@
 ## Tech Stack
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### Backend
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+</p>
 
 ### AI / ML
-![Tensorflow](https://skillicons.dev/icons?i=tensorflow)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
 
 - Pandas  
 - NumPy  
@@ -42,16 +49,25 @@
 - Data Science  
 
 ### Database
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=saks610&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saks610&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
@@ -60,15 +76,31 @@
 | Project | Description | Tech |
 |--------|------------|------|
 | STOCK-AI | AI-based chatbot for stock market learning and insights | Python, FastAPI, ML |
-| Stock Predictor | Predicts stock trends and suggests buy/sell/hold decisions | Python, ML, Data Science |
+| Stock Predictor | Predicts stock trends and provides buy/sell/hold insights | Python, ML |
 | FarmFusion AI | Platform for farmers with climate prediction and crop recommendation | AI, Web |
 | SequrHer Web | Women safety system with emergency alert and police connection | JavaScript, AI |
 | Constitution AI | AI platform to learn and understand the Indian Constitution | AI, NLP |
 
 ---
 
-## Connect With Me
+## Achievements
 
-- LinkedIn: Add your link  
-- Email: your email  
-- Portfolio: Add your website  
+- Solved 200+ problems on LeetCode  
+- Participated in 10+ hackathons  
+- Built multiple real-world AI applications  
+- Strong focus on backend systems and scalable architecture  
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" />
+</p>

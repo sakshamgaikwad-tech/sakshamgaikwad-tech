@@ -17,9 +17,7 @@
 
 ## About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+
 
 I am a Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR, focused on building scalable backend systems and intelligent applications.
 

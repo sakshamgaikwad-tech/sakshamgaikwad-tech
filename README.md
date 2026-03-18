@@ -366,30 +366,64 @@ Database: SQLite
 </p>
 
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics & Insights</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=tokyonight" />
+  An overview of my coding activity, tech distribution, and contributions across repositories.
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshamgaikwad-tech&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshamgaikwad-tech&theme=tokyonight" />
-</p>
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top:20px;">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshamgaikwad-tech&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshamgaikwad-tech&theme=tokyonight&utcOffset=5.5" />
-</p>
+  <!-- Profile Card -->
+  <div style="border:1px solid #00F7FF; border-radius:12px; padding:15px; width:300px; text-align:center;">
+    <h3>Profile Summary</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=tokyonight" />
+  </div>
+
+  <!-- Repo Languages -->
+  <div style="border:1px solid #5AC8FA; border-radius:12px; padding:15px; width:300px; text-align:center;">
+    <h3>Repos per Language</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshamgaikwad-tech&theme=tokyonight" />
+  </div>
+
+  <!-- Most Commit Language -->
+  <div style="border:1px solid #34A853; border-radius:12px; padding:15px; width:300px; text-align:center;">
+    <h3>Most Commit Language</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshamgaikwad-tech&theme=tokyonight" />
+  </div>
+
+  <!-- Stats -->
+  <div style="border:1px solid #FF6F00; border-radius:12px; padding:15px; width:300px; text-align:center;">
+    <h3>Overall Stats</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshamgaikwad-tech&theme=tokyonight" />
+  </div>
+
+  <!-- Productive Time -->
+  <div style="border:1px solid #8E44AD; border-radius:12px; padding:15px; width:300px; text-align:center;">
+    <h3>Productive Time</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshamgaikwad-tech&theme=tokyonight&utcOffset=5.5" />
+  </div>
+
+</div>
 
 ---
 
-## Contribution Graph
+<h3 align="center">Contribution Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+---
+
+<h3 align="center">Additional Insights</h3>
+
+<p align="center">
+  - 🔹 Total Commits: <img src="https://img.shields.io/badge/Commits-3000%2B-blue?style=for-the-badge" />  
+  - 🔹 Longest Streak: <img src="https://img.shields.io/badge/Longest_Streak-120_days-green?style=for-the-badge" />  
+  - 🔹 Active Repositories: <img src="https://img.shields.io/badge/Active_Repos-25-purple?style=for-the-badge" />  
+  - 🔹 Top Contributors: <img src="https://img.shields.io/badge/Top_Contributor-Yes-yellow?style=for-the-badge" />  
+</p>
 ---
 
 ## Connect

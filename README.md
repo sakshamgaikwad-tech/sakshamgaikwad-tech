@@ -1,4 +1,7 @@
-<h1 align="center">Saksham Gaikwad</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Saksham+Gaikwad;AI+Engineer+%7C+Backend+Developer;Full+Stack+Developer;Building+Scalable+AI+Systems" />
+</h1>
+
 <h3 align="center">AI Engineer | Backend Developer | Full Stack Developer</h3>
 
 <p align="center">
@@ -155,15 +158,15 @@ Processing: Python AST
 AI-based platform helping farmers with smart decision-making.
 
 **Key Features:**
-AI Plant Disease Detection (Image-based)
+- AI Plant Disease Detection (Image-based)
+- Smart Water & Nutrient Calculator
+- Weather-Based Crop Planning
+- IoT Device Integration (Automation & Monitoring)
+- Real-Time Dashboard (3D UI)
+- E-Marketplace for Farmers
+- Farmer Community Platform (Chat + Feed)
+- AI Crop Planner & Scheduler
 
--Smart Water & Nutrient Calculator
--Weather-Based Crop Planning
--IoT Device Integration (Automation & Monitoring)
--Real-Time Dashboard (3D UI)
--E-Marketplace for Farmers
--Farmer Community Platform (Chat + Feed)
--AI Crop Planner & Scheduler
 **Tech Stack:**
 Frontend: HTML, CSS, JavaScript (3D animations, advanced UI/UX)
 Backend: Python (FastAPI)
@@ -209,12 +212,13 @@ Machine learning system for stock prediction.
 Emergency support platform for women safety.
 
 **Key Features:**
--One-Tap SOS Button – Sends emergency alerts with live location
--Live Location Tracking – Continuous GPS sharing with trusted contacts
--Voice-Activated Trigger – Activate SOS using keywords like “help”
--Fake Call Feature – Escape unsafe situations quickly
--AI Emergency Chatbot – Guides users during panic situations
--Nearby Police Alert System – Alerts nearest authoritie
+- One-Tap SOS Button – Sends emergency alerts with live location
+- Live Location Tracking – Continuous GPS sharing with trusted contacts
+- Voice-Activated Trigger – Activate SOS using keywords like “help”
+- Fake Call Feature – Escape unsafe situations quickly
+- AI Emergency Chatbot – Guides users during panic situations
+- Nearby Police Alert System – Alerts nearest authoritie
+
 **Tech Stack:**
 Frontend: HTML, CSS, JavaScript (3D animations, responsive UI)
 Backend: Python (FastAPI)
@@ -252,15 +256,17 @@ Database: SQLite
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamgaikwad-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgaikwad-tech&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshamgaikwad-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshamgaikwad-tech&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshamgaikwad-tech&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshamgaikwad-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshamgaikwad-tech&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
@@ -268,7 +274,7 @@ Database: SQLite
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -282,7 +288,7 @@ Database: SQLite
   <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="sakshamgaikwad1377@gmail.com">
+  <a href="mailto:sakshamgaikwad1377@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>

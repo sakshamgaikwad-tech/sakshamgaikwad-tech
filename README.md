@@ -93,16 +93,78 @@ Data Structures • Algorithms • System Design • Backend Architecture • Pr
 ---
 
 ## Projects
+### Saksham’s AI - AI Developer Assistant for Code Understanding & Analysis
+**Key Features:**
+-Code Upload System
+Upload .py or code files and index them for AI understanding
+-AI Chat (ChatGPT-like Interface)
+Ask questions about uploaded code in natural language
+-Code Explanation Engine
+Automatically explains functions, logic, and structure
+-Bug Detection System
+Identifies possible errors and issues in the code
+-Code Analysis Module
+Provides insights like complexity, structure, and improvements
+-RAG-based AI (Retrieval-Augmented Generation)
+Uses relevant code chunks to generate accurate answers
+-Vector Search System
+Finds the most relevant code parts using embeddings
+-Modern UI/UX
+ChatGPT-style interface with sidebar, chat, and file upload
+-Backend API System
+Scalable REST API for all AI operations
+**Tech Stack:** 
+- Frontend
+HTML, CSS, JavaScript
+ChatGPT-style UI/UX design
+Fetch API for backend communication
+
+- Backend
+FastAPI
+REST APIs for AI operations
+File handling and request processing
+- AI / Machine Learning
+Transformers
+Microsoft Phi-2 (for code understanding)
+-RAG & Search
+SentenceTransformers
+-Code Processing
+Python AST / static analysis tools
+Custom code chunking & parsing
+
+
+### Expense Manager
+**Key Features:**
+Track daily expenses
+Categorize spending (Food, Travel, etc.)
+View expenses in a dashboard
+Analyze monthly spending using charts
+Manage data (add/delete expenses)
+**Tech Stack:**
+-Frontend: React + Material UI + Recharts + Axios
+-Backend: Spring Boot + Spring Data JPA + H2 Database + Apache Maven
+---
 
 ### STOCK-AI — AI-Based Trading Assistant
 AI-powered chatbot system to help users understand stock market concepts and trends.
 
 **Key Features:**
-- Natural language-based interaction  
-- Market insights and explanations  
-- Modular backend system  
+-AI-powered stock prediction and trend analysis
+-Real-time stock market data fetching and visualization
+-Chatbot-style interface (like ChatGPT) for stock queries
+-Portfolio tracking and performance analytics
+-Machine learning models for price forecasting
+-Smart alerts and notifications for stock movements
+-Market news and sentiment analysis
+-Historical data analysis with charts and insights
+-Fast API-based backend for high performance
+-Secure user authentication and data management
 
-**Tech Stack:** Python, FastAPI, Machine Learning  
+**Tech Stack:** 
+Frontend: HTML, CSS, JavaScript (chatbot-style UI)
+Backend: Python (FastAPI) with ML models (TensorFlow/PyTorch)
+Database: PostgreSQL / MongoDB for storing stock & user data
+APIs & Tools: Stock APIs (Alpha Vantage/Yahoo Finance), LLM integration (Llama 3 / OpenAI)
 
 ---
 
@@ -146,11 +208,19 @@ Emergency alert system for women safety with real-time response capability.
 AI-based system for understanding the Indian Constitution.
 
 **Key Features:**
-- AI explanations  
-- Structured learning  
-- Interactive design  
-
-**Tech Stack:** AI, NLP  
+Users can learn Articles, Fundamental Rights, and Duties
+Data is fetched dynamically from a backend API
+Users can submit contact messages, which are stored in a database
+The system can be extended with search, quizzes, and AI chatbot features
+**Tech Stack:** 
+-Frontend
+HTML
+CSS
+JavaScript (Fetch API for backend communication)
+-Backend
+Python (FastAPI)
+ -Database
+SQLite (for storing contact messages & data)
 
 ---
 

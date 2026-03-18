@@ -264,10 +264,10 @@ Database: SQLite
   <a href="https://github.com/sakshamgaikwad-tech">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="sakshamgaikwad1377@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>

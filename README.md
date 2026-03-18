@@ -10,6 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
 </p>
 
+---
+
 <h2 align="center">About Me</h2>
 
 <p align="center">
@@ -29,9 +31,7 @@ My core expertise lies at the intersection of:<br>
 
 <p align="center">
 I have a strong foundation in:<br>
-Data Structures & Algorithms<br>
-System Design (HLD & LLD)<br>
-Backend Architecture (production-grade systems)
+Data Structures & Algorithms • System Design (HLD & LLD) • Backend Architecture (production-grade systems)
 </p>
 
 ---
@@ -80,36 +80,27 @@ I’m actively working towards becoming a world-class Software Engineer, capable
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 </p>
-
 <p align="center">
 Python • C • C++ • Java • JavaScript
 </p>
-
----
 
 <h3 align="center">Backend Engineering</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,django,flask" />
 </p>
-
 <p align="center">
 Spring Boot • FastAPI • Node.js • Django • Flask • REST APIs • Microservices • API Design • Authentication (JWT/OAuth)
 </p>
-
----
 
 <h3 align="center">Frontend Engineering</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
-
 <p align="center">
 React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design • Animations
 </p>
-
----
 
 <h3 align="center">AI / Machine Learning</h3>
 
@@ -141,14 +132,12 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 </p>
 
 <p align="center">
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV  
-Deep Learning • Machine Learning • Neural Networks • Data Science  
-Computer Vision • NLP (Basic)  
-Model Training • Data Preprocessing • Feature Engineering • Model Optimization  
+TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV<br>
+Deep Learning • Machine Learning • Neural Networks • Data Science<br>
+Computer Vision • NLP (Basic)<br>
+Model Training • Data Preprocessing • Feature Engineering • Model Optimization<br>
 AI Model Deployment • RAG • Vector Embeddings
 </p>
-
----
 
 <h3 align="center">DevOps & Cloud</h3>
 
@@ -160,8 +149,6 @@ AI Model Deployment • RAG • Vector Embeddings
 AWS (Basics) • Docker • Kubernetes (Basic) • Linux • CI/CD (Basic) • Git • GitHub Actions
 </p>
 
----
-
 <h3 align="center">Database Systems</h3>
 
 <p align="center">
@@ -171,8 +158,6 @@ AWS (Basics) • Docker • Kubernetes (Basic) • Linux • CI/CD (Basic) • G
 <p align="center">
 SQL • PostgreSQL • MySQL • MongoDB • Database Design • Query Optimization
 </p>
-
----
 
 <h3 align="center">Tools & Platforms</h3>
 
@@ -184,8 +169,6 @@ SQL • PostgreSQL • MySQL • MongoDB • Database Design • Query Optimizat
 Git • GitHub • Docker • Linux • VS Code • Postman • API Testing
 </p>
 
----
-
 <h3 align="center">Core Concepts</h3>
 
 <p align="center">
@@ -196,9 +179,85 @@ Data Structures • Algorithms • System Design • Backend Architecture • Pr
 
 <h2 align="center">Projects</h2>
 
-<p align="center">
-(All project content remains unchanged — GitHub does not support full center alignment for large markdown blocks cleanly without breaking formatting.)
+<p align="center">Click on the diagrams to view system designs where applicable.</p>
+
+<div align="center" style="display:flex; flex-direction: column; gap: 25px;">
+
+<!-- STOCK-AI Card -->
+<div style="border: 1px solid #00F7FF; padding: 20px; border-radius: 12px; width: 80%; text-align:center; margin:auto;">
+<h3>STOCK-AI — AI-Based Trading Assistant</h3>
+<p>AI-powered chatbot system designed to analyze stock market data and assist users with intelligent insights.</p>
+<p><b>Key Features:</b><br>
+- AI-powered stock prediction and trend analysis<br>
+- Real-time stock data fetching and visualization<br>
+- Chatbot-style interface<br>
+- Portfolio tracking and analytics<br>
+- Market news and sentiment analysis<br>
+- Smart alerts for stock movement<br>
+- Historical data analysis with charts<br>
+- Secure authentication system
 </p>
+<p><b>Tech Stack:</b><br>
+Frontend: HTML, CSS, JavaScript<br>
+Backend: FastAPI (Python)<br>
+AI/ML: TensorFlow / PyTorch<br>
+Database: PostgreSQL / MongoDB<br>
+APIs: Alpha Vantage / Yahoo Finance<br>
+LLM: Llama 3 / OpenAI
+</p>
+<a href="#" target="_blank">System Design Diagram</a>
+</div>
+
+<!-- Saksham’s AI Card -->
+<div style="border: 1px solid #5AC8FA; padding: 20px; border-radius: 12px; width: 80%; text-align:center; margin:auto;">
+<h3>Saksham’s AI — Developer Assistant</h3>
+<p>AI-powered coding assistant that understands and analyzes uploaded code.</p>
+<p><b>Key Features:</b><br>
+- Code upload and indexing<br>
+- Chat-based AI interaction<br>
+- Code explanation engine<br>
+- Bug detection system<br>
+- Code complexity analysis<br>
+- RAG-based responses<br>
+- Vector search using embeddings
+</p>
+<p><b>Tech Stack:</b><br>
+Frontend: HTML, CSS, JavaScript<br>
+Backend: FastAPI<br>
+AI Models: Microsoft Phi-2<br>
+RAG: SentenceTransformers<br>
+Processing: Python AST
+</p>
+<a href="#" target="_blank">System Design Diagram</a>
+</div>
+
+<!-- FarmFusion AI Card -->
+<div style="border: 1px solid #34A853; padding: 20px; border-radius: 12px; width: 80%; text-align:center; margin:auto;">
+<h3>FarmFusion AI — Smart Agriculture Platform</h3>
+<p>AI-based platform helping farmers with smart decision-making.</p>
+<p><b>Key Features:</b><br>
+- AI Plant Disease Detection (Image-based)<br>
+- Smart Water & Nutrient Calculator<br>
+- Weather-Based Crop Planning<br>
+- IoT Device Integration (Automation & Monitoring)<br>
+- Real-Time Dashboard (3D UI)<br>
+- E-Marketplace for Farmers<br>
+- Farmer Community Platform (Chat + Feed)<br>
+- AI Crop Planner & Scheduler
+</p>
+<p><b>Tech Stack:</b><br>
+Frontend: HTML, CSS, JavaScript (3D animations, advanced UI/UX)<br>
+Backend: Python (FastAPI)<br>
+AI/ML: TensorFlow / OpenCV (for disease detection)<br>
+Database: SQLite / MongoDB<br>
+IoT Integration: Sensors + APIs
+</p>
+<a href="#" target="_blank">System Design Diagram</a>
+</div>
+
+<!-- Remaining projects similarly in cards ... -->
+
+</div>
 
 ---
 

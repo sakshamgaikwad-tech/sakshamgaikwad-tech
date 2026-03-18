@@ -155,12 +155,21 @@ Processing: Python AST
 AI-based platform helping farmers with smart decision-making.
 
 **Key Features:**
-- Crop recommendation system  
-- Climate-based prediction  
-- Farmer communication platform  
-- Smart agriculture insights  
+AI Plant Disease Detection (Image-based)
 
-**Tech Stack:** AI + Web Technologies  
+-Smart Water & Nutrient Calculator
+-Weather-Based Crop Planning
+-IoT Device Integration (Automation & Monitoring)
+-Real-Time Dashboard (3D UI)
+-E-Marketplace for Farmers
+-Farmer Community Platform (Chat + Feed)
+-AI Crop Planner & Scheduler
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript (3D animations, advanced UI/UX)
+Backend: Python (FastAPI)
+AI/ML: TensorFlow / OpenCV (for disease detection)
+Database: SQLite / MongoDB
+IoT Integration: Sensors + APIs
 
 ---
 
@@ -200,11 +209,17 @@ Machine learning system for stock prediction.
 Emergency support platform for women safety.
 
 **Key Features:**
-- Instant alert system  
-- Location-based support  
-- Scalable integration concept  
-
-**Tech Stack:** JavaScript  
+-One-Tap SOS Button – Sends emergency alerts with live location
+-Live Location Tracking – Continuous GPS sharing with trusted contacts
+-Voice-Activated Trigger – Activate SOS using keywords like “help”
+-Fake Call Feature – Escape unsafe situations quickly
+-AI Emergency Chatbot – Guides users during panic situations
+-Nearby Police Alert System – Alerts nearest authoritie
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript (3D animations, responsive UI)
+Backend: Python (FastAPI)
+APIs: Geolocation API, Speech Recognition API
+Database: (Planned/Optional) Firebase / MongoDB
 
 ---
 

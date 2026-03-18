@@ -16,16 +16,51 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-I am a Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR, focused on building scalable backend systems and intelligent applications.
+I’m a **Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR**, focused on building **scalable, distributed, and intelligent systems** that solve real-world problems at scale.
 
-Strong focus on Backend Engineering and AI Integration with hands-on experience in real-world systems. Skilled in Data Structures, Algorithms, and System Design.
+I approach engineering with a **systems-first mindset** — going beyond code to design **robust architectures, efficient data pipelines, and high-performance backend systems**.
 
-Actively developing startup-level AI products across domains such as:
-- Finance (Stock AI Systems)
-- Agriculture (Smart Farming Platforms)
-- Public Safety (Emergency Systems)
+My core expertise lies at the intersection of:
+- **Backend Engineering (Scalable APIs & Microservices)**
+- **AI/ML Integration (Data-driven intelligent systems)**
+- **System Design (High-level architecture & optimization)**
+
+I have a strong foundation in:
+- Data Structures & Algorithms  
+- System Design (HLD & LLD)  
+- Backend Architecture (production-grade systems)  
 
 ---
+
+### What I Build
+
+I focus on building **real-world, high-impact products**, not just projects:
+
+-  **AI-Driven Finance Systems**  
+  Intelligent stock analysis platforms with automated insights and scalable data pipelines  
+
+-  **Smart Agriculture Platforms — FarmFusion AI**  
+  End-to-end hydroponic systems with AI disease detection, IoT automation, and real-time analytics  
+
+-  **AI-Powered Safety Systems — SequrHer**  
+  Real-time emergency response systems with live tracking, voice triggers, and intelligent assistance  
+
+---
+
+### Engineering Mindset
+
+- Think in terms of **scalability, latency, and reliability**
+- Design systems like **real-world production architectures**
+- Write **clean, maintainable, and extensible code**
+- Follow **industry-level best practices**
+
+---
+
+### Vision
+
+To build systems that operate at **massive scale**, solve **meaningful global problems**, and meet the standards of top-tier companies.
+
+I’m actively working towards becoming a **world-class Software Engineer**, capable of designing and scaling systems used by millions.
 
 ## Technical Skills
 

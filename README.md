@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Saksham%20Gaikwad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0F2027,203A43,2C5364&height=260&section=header&text=Saksham%20Gaikwad&fontSize=50&fontColor=E0F7FA&animation=fadeIn&fontAlignY=30&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55"/>
 </p>
-
-<h3 align="center">
-  <b>AI Engineer | Backend Developer | Full Stack Developer</b>
-</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
 </p>
----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header"/>
+</p>
 
 ## About Me
 

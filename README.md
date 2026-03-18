@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=45&duration=2500&pause=700&color=0A84FF&center=true&vCenter=true&width=900&lines=Saksham+Gaikwad" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Saksham%20Gaikwad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h3 align="center">
   <b>AI Engineer | Backend Developer | Full Stack Developer</b>
@@ -8,10 +8,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A84FF&height=2&section=header"/>
 </p>
 ---
 

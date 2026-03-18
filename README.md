@@ -67,6 +67,9 @@ I’m actively working towards becoming a **world-class Software Engineer**, cap
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 </p>
 
+
+
+
 <p align="center">
 Python • C • C++ • Java • JavaScript
 </p>
@@ -88,6 +91,9 @@ Spring Boot • FastAPI • Node.js • Django • Flask • REST APIs • Micro
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
+
+
+
 
 <p align="center">
 React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design • Animations
@@ -135,6 +141,9 @@ Computer Vision • NLP (Basic)
 Model Training • Data Preprocessing • Feature Engineering • Model Optimization  
 AI Model Deployment • RAG • Vector Embeddings
 </p>
+
+
+
 ---
 
 ### DevOps & Cloud
@@ -145,6 +154,9 @@ AI Model Deployment • RAG • Vector Embeddings
 <p align="center">
 AWS (Basics) • Docker • Kubernetes (Basic) • Linux • CI/CD (Basic) • Git • GitHub Actions
 </p>
+
+
+
 
 ---
 
@@ -157,6 +169,9 @@ AWS (Basics) • Docker • Kubernetes (Basic) • Linux • CI/CD (Basic) • G
 SQL • PostgreSQL • MySQL • MongoDB • Database Design • Query Optimization
 </p>
 
+
+
+
 ---
 
 ### Tools & Platforms
@@ -168,6 +183,9 @@ SQL • PostgreSQL • MySQL • MongoDB • Database Design • Query Optimizat
 Git • GitHub • Docker • Linux • VS Code • Postman • API Testing
 </p>
 
+
+
+
 ---
 
 ### Core Concepts
@@ -176,11 +194,13 @@ Git • GitHub • Docker • Linux • VS Code • Postman • API Testing
 Data Structures • Algorithms • System Design • Backend Architecture • Problem Solving • OOP • Operating Systems • DBMS • Networking (Basics)
 </p>
 
+
+
+
 ---
 
 ## Projects
 
-## Projects
 
 ---
 

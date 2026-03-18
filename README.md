@@ -98,7 +98,12 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 ### AI / Machine Learning
 
 <p align="center">
+  <!-- Core Frameworks -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="center">
+  <!-- Libraries -->
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -107,6 +112,7 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 </p>
 
 <p align="center">
+  <!-- Specializations -->
   <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
@@ -115,9 +121,20 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 </p>
 
 <p align="center">
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV • Deep Learning • Machine Learning • Neural Networks • Data Science • Model Training • Data Preprocessing • Feature Engineering • Model Optimization • Computer Vision • NLP (Basic) • AI Model Deployment • RAG • Vector Embeddings
+  <!-- Advanced Concepts -->
+  <img src="https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-16A085?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Deployment-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-E67E22?style=for-the-badge"/>
 </p>
 
+<p align="center">
+TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • Matplotlib • OpenCV  
+Deep Learning • Machine Learning • Neural Networks • Data Science  
+Computer Vision • NLP (Basic)  
+Model Training • Data Preprocessing • Feature Engineering • Model Optimization  
+AI Model Deployment • RAG • Vector Embeddings
+</p>
 ---
 
 ### DevOps & Cloud

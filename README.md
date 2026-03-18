@@ -369,62 +369,62 @@ Database: SQLite
 <h2 align="center">GitHub Analytics & Insights</h2>
 
 <p align="center">
-  An overview of my coding activity, tech distribution, and contributions across repositories.
+  Track of my coding activity, contributions, and technology distribution.
 </p>
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-top:20px;">
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px; margin-top:25px;">
 
   <!-- Profile Card -->
-  <div style="border:1px solid #00F7FF; border-radius:12px; padding:15px; width:300px; text-align:center;">
-    <h3>Profile Summary</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=tokyonight" />
+  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#58a6ff;">Profile Summary</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=dark" />
   </div>
 
   <!-- Repo Languages -->
-  <div style="border:1px solid #5AC8FA; border-radius:12px; padding:15px; width:300px; text-align:center;">
-    <h3>Repos per Language</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshamgaikwad-tech&theme=tokyonight" />
+  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#f5c242;">Repos per Language</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshamgaikwad-tech&theme=dark" />
   </div>
 
   <!-- Most Commit Language -->
-  <div style="border:1px solid #34A853; border-radius:12px; padding:15px; width:300px; text-align:center;">
-    <h3>Most Commit Language</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshamgaikwad-tech&theme=tokyonight" />
+  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#34d058;">Top Commit Language</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshamgaikwad-tech&theme=dark" />
   </div>
 
-  <!-- Stats -->
-  <div style="border:1px solid #FF6F00; border-radius:12px; padding:15px; width:300px; text-align:center;">
-    <h3>Overall Stats</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshamgaikwad-tech&theme=tokyonight" />
+  <!-- Overall Stats -->
+  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#ff7b72;">Overall Stats</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshamgaikwad-tech&theme=dark" />
   </div>
 
   <!-- Productive Time -->
-  <div style="border:1px solid #8E44AD; border-radius:12px; padding:15px; width:300px; text-align:center;">
-    <h3>Productive Time</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshamgaikwad-tech&theme=tokyonight&utcOffset=5.5" />
+  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
+    <h3 style="color:#9b7cd8;">Productive Time</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshamgaikwad-tech&theme=dark&utcOffset=5.5" />
   </div>
 
 </div>
 
----
-
-<h3 align="center">Contribution Graph</h3>
-
+<!-- Contribution Graph -->
+<h3 align="center" style="margin-top:40px; color:#58a6ff;">Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=github-dark&hide_border=true&area=true" />
 </p>
 
----
-
-<h3 align="center">Additional Insights</h3>
-
+<!-- Additional Highlights -->
+<h3 align="center" style="margin-top:40px; color:#f5c242;">Key GitHub Metrics</h3>
 <p align="center">
-  - 🔹 Total Commits: <img src="https://img.shields.io/badge/Commits-3000%2B-blue?style=for-the-badge" />  
-  - 🔹 Longest Streak: <img src="https://img.shields.io/badge/Longest_Streak-120_days-green?style=for-the-badge" />  
-  - 🔹 Active Repositories: <img src="https://img.shields.io/badge/Active_Repos-25-purple?style=for-the-badge" />  
-  - 🔹 Top Contributors: <img src="https://img.shields.io/badge/Top_Contributor-Yes-yellow?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Total_Commits-3000%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-120_days-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Repos-25-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top_Contributor-Yes-yellow?style=for-the-badge&logo=github&logoColor=white" />
 </p>
----
+
+<p align="center" style="margin-top:15px; font-size:16px; color:#c9d1d9;">
+  This dashboard highlights my active coding streaks, most-used languages, productive contributions, and real-world project activity.  
+  Perfectly tailored for recruiters to quickly assess my impact and skills.
+</p>
 
 ## Connect
 

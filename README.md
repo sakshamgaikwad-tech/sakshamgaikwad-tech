@@ -9,8 +9,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
 </p>
-### About Me
 
+ --- About Me
 
 
 I am a Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR, focused on building scalable backend systems and intelligent applications.

@@ -19,80 +19,76 @@ Strong foundation in Data Structures, Algorithms, and System Design with hands-o
 ## Technical Skills
 
 ### Programming Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 </p>
 
-- Python, C, C++, Java, JavaScript  
+<p align="center">
+Python • C • C++ • Java • JavaScript
+</p>
 
 ---
 
 ### Backend Engineering
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
 </p>
 
-- Spring Boot  
-- FastAPI  
-- Node.js  
-- REST API Design  
-- Microservices (basic)  
+<p align="center">
+Spring Boot • FastAPI • Node.js • REST APIs • Microservices (basic)
+</p>
 
 ---
 
 ### Frontend Engineering
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-- React.js  
-- HTML5, CSS3  
-- Responsive Design  
+<p align="center">
+React • HTML5 • CSS3 • Responsive Design
+</p>
 
 ---
 
 ### AI / Machine Learning
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Machine Learning  
-- Data Science  
+<p align="center">
+Pandas • NumPy • Matplotlib • Machine Learning • Data Science
+</p>
 
 ---
 
 ### Database Systems
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-- SQL  
-- PostgreSQL  
-- Database Design  
+<p align="center">
+SQL • PostgreSQL • Database Design
+</p>
 
 ---
 
 ### Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
-- Git & GitHub  
-- Docker (basic)  
-- Linux  
-- VS Code  
+<p align="center">
+Git • GitHub • Docker • Linux • VS Code
+</p>
 
 ---
 
 ### Core Concepts
 
-- Data Structures and Algorithms  
-- System Design  
-- Backend Architecture  
-- Problem Solving  
+<p align="center">
+Data Structures • Algorithms • System Design • Backend Architecture • Problem Solving
+</p>
 
 ---
 

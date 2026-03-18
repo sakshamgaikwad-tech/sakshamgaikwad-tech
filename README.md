@@ -341,13 +341,30 @@ Database: SQLite
 
 ---
 
-## Achievements
+<h2 align="center">Achievements & Milestones</h2>
 
-- Solved 200+ LeetCode problems  
-- Participated in 10+ hackathons  
-- Built multiple real-world projects  
-- Strong focus on backend and AI systems  
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-skyblue?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Hackathons-10%2B-orange?style=for-the-badge&logo=devpost&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Projects-Real-World%20Impact-9cf?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Backend%20%26%20AI-Expert-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Mastery-blueviolet?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Models-Trained-success?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Global-Impact-0078D7?style=for-the-badge&logo=world&logoColor=white" />
+</p>
 
+<p align="center" style="margin-top:15px; font-size:16px;">
+- Solved 200+ LeetCode problems, mastering algorithms and problem-solving skills at scale.  
+- Participated in 10+ hackathons, building innovative AI and backend solutions under tight deadlines.  
+- Delivered multiple real-world projects, including FarmFusion AI and SequrHer, impacting users globally.  
+- Strong focus on scalable backend systems and AI integration, with production-ready code and clean architectures.  
+- Designed systems for global-scale applications, preparing for high-impact roles in top-tier tech companies.  
+- Built 5+ end-to-end AI/ML pipelines, including plant disease detection, stock prediction, and safety systems.  
+- Specialized in Deep Learning and Computer Vision, training models with OpenCV, TensorFlow, PyTorch, and vector embeddings.  
+- Recognized in coding competitions and college-level tech fests for building innovative solutions.  
+- Experienced in System Design, creating HLD and LLD diagrams for real-world production-grade systems.  
+- Contributed to AI for Social Good projects, like smart agriculture and women safety platforms.  
+</p>
 ---
 
 ## GitHub Analytics

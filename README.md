@@ -18,129 +18,141 @@ Strong foundation in Data Structures, Algorithms, and System Design with hands-o
 
 ## Technical Skills
 
-### Core Engineering
-- Data Structures and Algorithms  
-- System Design (High-Level Design, Low-Level Design basics)  
-- Object-Oriented Programming  
-- Problem Solving  
-
----
-
 ### Programming Languages
-- Python  
-- C / C++  
-- Java  
-- JavaScript  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+- Python, C, C++, Java, JavaScript  
 
 ---
 
 ### Backend Engineering
-- Spring Boot (Java backend development)  
-- FastAPI (Python-based APIs)  
-- Node.js (server-side applications)  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+</p>
+
+- Spring Boot  
+- FastAPI  
+- Node.js  
 - REST API Design  
-- Basic Microservices Architecture  
-- API Integration and Data Handling  
+- Microservices (basic)  
 
 ---
 
 ### Frontend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
 - React.js  
 - HTML5, CSS3  
-- Responsive UI Development  
+- Responsive Design  
 
 ---
 
-### AI / Machine Learning & Data Systems
-- Machine Learning (Supervised Learning basics)  
-- TensorFlow  
-- Data Processing (Pandas, NumPy)  
-- Data Visualization (Matplotlib)  
-- Model Development and Evaluation  
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Machine Learning  
+- Data Science  
 
 ---
 
 ### Database Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
 - SQL  
 - PostgreSQL  
-- Database Schema Design  
-- Query Optimization basics  
+- Database Design  
 
 ---
 
 ### Tools & Platforms
-- Git, GitHub  
-- Docker (basic usage)  
-- Linux Environment  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+- Git & GitHub  
+- Docker (basic)  
+- Linux  
 - VS Code  
 
 ---
 
-### Tech Stack Overview
+### Core Concepts
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,react,html,css,spring,fastapi,nodejs,tensorflow,mysql,postgres,docker,git,github,linux" />
-</p>
+- Data Structures and Algorithms  
+- System Design  
+- Backend Architecture  
+- Problem Solving  
 
 ---
 
 ## Projects
 
 ### STOCK-AI — AI-Based Trading Assistant
-A scalable AI-powered chatbot system designed to help users understand stock market concepts, trends, and decision-making strategies.
+AI-powered chatbot system to help users understand stock market concepts and trends.
 
 **Key Features:**
-- Natural language-based interaction for financial queries  
-- Market concept explanations and insights  
-- Modular backend design for extensibility  
+- Natural language-based interaction  
+- Market insights and explanations  
+- Modular backend system  
 
 **Tech Stack:** Python, FastAPI, Machine Learning  
 
 ---
 
 ### Stock Predictor — Predictive Analytics System
-A data-driven system that analyzes historical stock data to generate Buy, Sell, or Hold recommendations.
+Machine learning model that predicts stock trends and suggests Buy/Sell/Hold decisions.
 
 **Key Features:**
-- Time-series based prediction logic  
-- Data preprocessing and feature engineering  
-- Model-based decision support  
+- Data preprocessing and modeling  
+- Predictive analytics  
+- Decision support  
 
-**Tech Stack:** Python, Machine Learning, Data Science  
+**Tech Stack:** Python, ML  
 
 ---
 
 ### FarmFusion AI — Smart Agriculture Platform
-A scalable platform designed to support farmers through data-driven insights and connectivity.
+Platform connecting farmers with climate prediction and crop recommendations.
 
 **Key Features:**
-- Farmer-to-farmer interaction system  
-- Climate prediction module  
-- Crop recommendation system  
+- Farmer communication  
+- Climate prediction  
+- Crop advisory system  
 
-**Tech Stack:** AI, Web Technologies, Data Analysis  
+**Tech Stack:** AI, Web  
 
 ---
 
-### SequrHer Web — Real-Time Safety Platform
-A real-time emergency alert system focused on improving women’s safety through rapid communication.
+### SequrHer Web — Safety Platform
+Emergency alert system for women safety with real-time response capability.
 
 **Key Features:**
-- Instant emergency alert triggering  
-- Location-based assistance concept  
-- Integration-ready architecture for authorities  
+- Instant alert system  
+- Scalable integration concept  
+- Location-based idea  
 
-**Tech Stack:** JavaScript, Web Development  
+**Tech Stack:** JavaScript  
 
 ---
 
-### Constitution AI — AI Learning Platform
-An AI-powered system that simplifies learning of the Indian Constitution using structured explanations.
+### Constitution AI — Learning Platform
+AI-based system for understanding the Indian Constitution.
 
 **Key Features:**
-- Concept-based learning approach  
-- AI-driven explanation system  
-- Interactive knowledge structure  
+- AI explanations  
+- Structured learning  
+- Interactive design  
 
 **Tech Stack:** AI, NLP  
 
@@ -148,10 +160,10 @@ An AI-powered system that simplifies learning of the Indian Constitution using s
 
 ## Achievements
 
-- Solved 200+ problems on LeetCode  
-- Participated in 10+ hackathons focused on real-world problem solving  
-- Built multiple domain-specific applications  
-- Strong focus on scalable backend and AI systems  
+- Solved 200+ LeetCode problems  
+- Participated in 10+ hackathons  
+- Built multiple real-world projects  
+- Strong focus on backend and AI systems  
 
 ---
 
@@ -197,4 +209,4 @@ An AI-powered system that simplifies learning of the Indian Constitution using s
 
 ## Professional Focus
 
-Focused on designing scalable backend architectures and intelligent AI systems that solve real-world problems using structured engineering and data-driven approaches.
+Focused on building scalable backend systems and AI-driven solutions that solve real-world problems using structured engineering and data-driven approaches.

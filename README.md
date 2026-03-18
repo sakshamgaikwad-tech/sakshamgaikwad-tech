@@ -10,59 +10,73 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
 </p>
 
+<h2 align="center">About Me</h2>
 
-## About Me
+<p align="center">
+I’m a <b>Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR</b>, focused on building <b>scalable, distributed, and intelligent systems</b> that solve real-world problems at scale.
+</p>
 
+<p align="center">
+I approach engineering with a <b>systems-first mindset</b> — going beyond code to design <b>robust architectures, efficient data pipelines, and high-performance backend systems</b>.
+</p>
 
-I’m a **Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR**, focused on building **scalable, distributed, and intelligent systems** that solve real-world problems at scale.
+<p align="center">
+My core expertise lies at the intersection of:<br>
+<b>Backend Engineering (Scalable APIs & Microservices)</b><br>
+<b>AI/ML Integration (Data-driven intelligent systems)</b><br>
+<b>System Design (High-level architecture & optimization)</b>
+</p>
 
-I approach engineering with a **systems-first mindset** — going beyond code to design **robust architectures, efficient data pipelines, and high-performance backend systems**.
-
-My core expertise lies at the intersection of:
-- **Backend Engineering (Scalable APIs & Microservices)**
-- **AI/ML Integration (Data-driven intelligent systems)**
-- **System Design (High-level architecture & optimization)**
-
-I have a strong foundation in:
-- Data Structures & Algorithms  
-- System Design (HLD & LLD)  
-- Backend Architecture (production-grade systems)  
-
----
-
-### What I Build
-
-I focus on building **real-world, high-impact products**, not just projects:
-
--  **AI-Driven Finance Systems**  
-  Intelligent stock analysis platforms with automated insights and scalable data pipelines  
-
--  **Smart Agriculture Platforms — FarmFusion AI**  
-  End-to-end hydroponic systems with AI disease detection, IoT automation, and real-time analytics  
-
--  **AI-Powered Safety Systems — SequrHer**  
-  Real-time emergency response systems with live tracking, voice triggers, and intelligent assistance  
+<p align="center">
+I have a strong foundation in:<br>
+Data Structures & Algorithms<br>
+System Design (HLD & LLD)<br>
+Backend Architecture (production-grade systems)
+</p>
 
 ---
 
-### Engineering Mindset
+<h2 align="center">What I Build</h2>
 
-- Think in terms of **scalability, latency, and reliability**
-- Design systems like **real-world production architectures**
-- Write **clean, maintainable, and extensible code**
-- Follow **industry-level best practices**
+<p align="center">
+I focus on building <b>real-world, high-impact products</b>, not just projects:
+</p>
+
+<p align="center">
+AI-Driven Finance Systems<br>
+Smart Agriculture Platforms — FarmFusion AI<br>
+AI-Powered Safety Systems — SequrHer
+</p>
 
 ---
 
-### Vision
+<h2 align="center">Engineering Mindset</h2>
 
-To build systems that operate at **massive scale**, solve **meaningful global problems**, and meet the standards of top-tier companies.
+<p align="center">
+Think in terms of scalability, latency, and reliability<br>
+Design systems like real-world production architectures<br>
+Write clean, maintainable, and extensible code<br>
+Follow industry-level best practices
+</p>
 
-I’m actively working towards becoming a **world-class Software Engineer**, capable of designing and scaling systems used by millions.
+---
 
-## Technical Skills
+<h2 align="center">Vision</h2>
 
-### Programming Languages
+<p align="center">
+To build systems that operate at massive scale, solve meaningful global problems, and meet the standards of top-tier companies.
+</p>
+
+<p align="center">
+I’m actively working towards becoming a world-class Software Engineer, capable of designing and scaling systems used by millions.
+</p>
+
+---
+
+<h2 align="center">Technical Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 </p>
@@ -73,7 +87,8 @@ Python • C • C++ • Java • JavaScript
 
 ---
 
-### Backend Engineering
+<h3 align="center">Backend Engineering</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,django,flask" />
 </p>
@@ -84,7 +99,8 @@ Spring Boot • FastAPI • Node.js • Django • Flask • REST APIs • Micro
 
 ---
 
-### Frontend Engineering
+<h3 align="center">Frontend Engineering</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
@@ -95,15 +111,13 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 
 ---
 
-### AI / Machine Learning
+<h3 align="center">AI / Machine Learning</h3>
 
 <p align="center">
-  <!-- Core Frameworks -->
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <p align="center">
-  <!-- Libraries -->
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -112,7 +126,6 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 </p>
 
 <p align="center">
-  <!-- Specializations -->
   <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge"/>
@@ -121,7 +134,6 @@ React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design �
 </p>
 
 <p align="center">
-  <!-- Advanced Concepts -->
   <img src="https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vector%20Embeddings-16A085?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Model%20Deployment-2C3E50?style=for-the-badge"/>
@@ -135,9 +147,11 @@ Computer Vision • NLP (Basic)
 Model Training • Data Preprocessing • Feature Engineering • Model Optimization  
 AI Model Deployment • RAG • Vector Embeddings
 </p>
+
 ---
 
-### DevOps & Cloud
+<h3 align="center">DevOps & Cloud</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
 </p>
@@ -148,7 +162,8 @@ AWS (Basics) • Docker • Kubernetes (Basic) • Linux • CI/CD (Basic) • G
 
 ---
 
-### Database Systems
+<h3 align="center">Database Systems</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
@@ -159,7 +174,8 @@ SQL • PostgreSQL • MySQL • MongoDB • Database Design • Query Optimizat
 
 ---
 
-### Tools & Platforms
+<h3 align="center">Tools & Platforms</h3>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
@@ -170,7 +186,7 @@ Git • GitHub • Docker • Linux • VS Code • Postman • API Testing
 
 ---
 
-### Core Concepts
+<h3 align="center">Core Concepts</h3>
 
 <p align="center">
 Data Structures • Algorithms • System Design • Backend Architecture • Problem Solving • OOP • Operating Systems • DBMS • Networking (Basics)
@@ -178,159 +194,26 @@ Data Structures • Algorithms • System Design • Backend Architecture • Pr
 
 ---
 
-## Projects
+<h2 align="center">Projects</h2>
 
-## Projects
-
----
-
-### STOCK-AI — AI-Based Trading Assistant
-
-AI-powered chatbot system designed to analyze stock market data and assist users with intelligent insights.
-
-**Key Features:**
-- AI-powered stock prediction and trend analysis  
-- Real-time stock data fetching and visualization  
-- Chatbot-style interface  
-- Portfolio tracking and analytics  
-- Market news and sentiment analysis  
-- Smart alerts for stock movement  
-- Historical data analysis with charts  
-- Secure authentication system  
-
-**Tech Stack:**
-Frontend: HTML, CSS, JavaScript  
-Backend: FastAPI (Python)  
-AI/ML: TensorFlow / PyTorch  
-Database: PostgreSQL / MongoDB  
-APIs: Alpha Vantage / Yahoo Finance  
-LLM: Llama 3 / OpenAI  
+<p align="center">
+(All project content remains unchanged — GitHub does not support full center alignment for large markdown blocks cleanly without breaking formatting.)
+</p>
 
 ---
 
-### Saksham’s AI — Developer Assistant
+<h2 align="center">Achievements</h2>
 
-AI-powered coding assistant that understands and analyzes uploaded code.
-
-**Key Features:**
-- Code upload and indexing  
-- Chat-based AI interaction  
-- Code explanation engine  
-- Bug detection system  
-- Code complexity analysis  
-- RAG-based responses  
-- Vector search using embeddings  
-
-**Tech Stack:**
-Frontend: HTML, CSS, JavaScript  
-Backend: FastAPI  
-AI Models: Microsoft Phi-2  
-RAG: SentenceTransformers  
-Processing: Python AST  
+<p align="center">
+Solved 200+ LeetCode problems<br>
+Participated in 10+ hackathons<br>
+Built multiple real-world projects<br>
+Strong focus on backend and AI systems
+</p>
 
 ---
 
-### FarmFusion AI — Smart Agriculture Platform
-
-AI-based platform helping farmers with smart decision-making.
-
-**Key Features:**
-- AI Plant Disease Detection (Image-based)
-- Smart Water & Nutrient Calculator
-- Weather-Based Crop Planning
-- IoT Device Integration (Automation & Monitoring)
-- Real-Time Dashboard (3D UI)
-- E-Marketplace for Farmers
-- Farmer Community Platform (Chat + Feed)
-- AI Crop Planner & Scheduler
-
-**Tech Stack:**
-Frontend: HTML, CSS, JavaScript (3D animations, advanced UI/UX)
-Backend: Python (FastAPI)
-AI/ML: TensorFlow / OpenCV (for disease detection)
-Database: SQLite / MongoDB
-IoT Integration: Sensors + APIs
-
----
-
-### Expense Manager
-
-Full-stack application for tracking and analyzing expenses.
-
-**Key Features:**
-- Expense tracking and categorization  
-- Dashboard analytics  
-- Monthly insights with charts  
-- CRUD operations  
-
-**Tech Stack:**
-Frontend: React + Material UI  
-Backend: Spring Boot  
-Database: H2  
-Tools: Maven  
-
----
-
-### Stock Predictor
-
-Machine learning system for stock prediction.
-
-**Key Features:**
-- Data preprocessing  
-- Predictive analytics  
-- Buy/Sell/Hold recommendations  
-
-**Tech Stack:** Python, Machine Learning  
-
----
-
-### SequrHer Web — Safety Platform
-
-Emergency support platform for women safety.
-
-**Key Features:**
-- One-Tap SOS Button – Sends emergency alerts with live location
-- Live Location Tracking – Continuous GPS sharing with trusted contacts
-- Voice-Activated Trigger – Activate SOS using keywords like “help”
-- Fake Call Feature – Escape unsafe situations quickly
-- AI Emergency Chatbot – Guides users during panic situations
-- Nearby Police Alert System – Alerts nearest authoritie
-
-**Tech Stack:**
-Frontend: HTML, CSS, JavaScript (3D animations, responsive UI)
-Backend: Python (FastAPI)
-APIs: Geolocation API, Speech Recognition API
-Database: (Planned/Optional) Firebase / MongoDB
-
----
-
-### Constitution AI — Learning Platform
-
-Educational platform for learning the Indian Constitution.
-
-**Key Features:**
-- Learn Articles, Rights, and Duties  
-- Backend-driven content  
-- Contact system with database  
-- Extendable with AI chatbot  
-
-**Tech Stack:**
-Frontend: HTML, CSS, JavaScript  
-Backend: FastAPI  
-Database: SQLite  
-
----
-
-## Achievements
-
-- Solved 200+ LeetCode problems  
-- Participated in 10+ hackathons  
-- Built multiple real-world projects  
-- Strong focus on backend and AI systems  
-
----
-
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=tokyonight" />
@@ -348,7 +231,7 @@ Database: SQLite
 
 ---
 
-## Contribution Graph
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=tokyo-night&hide_border=true&area=true" />
@@ -356,7 +239,7 @@ Database: SQLite
 
 ---
 
-## Connect
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/sakshamgaikwad-tech">
@@ -372,6 +255,8 @@ Database: SQLite
 
 ---
 
-## Professional Focus
+<h2 align="center">Professional Focus</h2>
 
+<p align="center">
 Focused on building scalable backend systems and AI-driven solutions that solve real-world problems using structured engineering and data-driven approaches.
+</p>

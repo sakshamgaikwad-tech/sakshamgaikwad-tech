@@ -42,55 +42,66 @@ Python • C • C++ • Java • JavaScript
 
 ### Backend Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,django,flask" />
 </p>
 
 <p align="center">
-Spring Boot • FastAPI • Node.js • REST APIs • Microservices (Basic)
+Spring Boot • FastAPI • Node.js • Django • Flask • REST APIs • Microservices • API Design • Authentication (JWT/OAuth)
 </p>
 
 ---
 
 ### Frontend Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
 <p align="center">
-React • HTML5 • CSS3 • Responsive Design
+React • HTML5 • CSS3 • JavaScript • Responsive Design • UI/UX Design • Animations
 </p>
 
 ---
 
 ### AI / Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <p align="center">
-Pandas • NumPy • Matplotlib • Machine Learning • Data Science
+Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • PyTorch • OpenCV • Machine Learning • Deep Learning • Data Science • NLP (Basic)
+</p>
+
+---
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" />
+</p>
+
+<p align="center">
+AWS (Basics) • Docker • Kubernetes (Basic) • Linux • CI/CD (Basic) • Git • GitHub Actions
 </p>
 
 ---
 
 ### Database Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 <p align="center">
-SQL • PostgreSQL • Database Design
+SQL • PostgreSQL • MySQL • MongoDB • Database Design • Query Optimization
 </p>
 
 ---
 
 ### Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
 <p align="center">
-Git • GitHub • Docker • Linux • VS Code
+Git • GitHub • Docker • Linux • VS Code • Postman • API Testing
 </p>
 
 ---
@@ -98,10 +109,12 @@ Git • GitHub • Docker • Linux • VS Code
 ### Core Concepts
 
 <p align="center">
-Data Structures • Algorithms • System Design • Backend Architecture • Problem Solving
+Data Structures • Algorithms • System Design • Backend Architecture • Problem Solving • OOP • Operating Systems • DBMS • Networking (Basics)
 </p>
 
 ---
+
+## Projects
 
 ## Projects
 

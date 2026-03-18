@@ -1,20 +1,18 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Saksham+Gaikwad;AI+Engineer+%7C+Backend+Developer;Full+Stack+Developer;Building+Scalable+AI+Systems" />
-</h1>
-
-<h3 align="center">AI Engineer | Backend Developer | Full Stack Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Saksham%20Gaikwad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<h3 align="center">
+  <b>AI Engineer | Backend Developer | Full Stack Developer</b>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
+</p>
 ---
 
 ## About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
 I’m a **Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR**, focused on building **scalable, distributed, and intelligent systems** that solve real-world problems at scale.
 

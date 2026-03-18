@@ -412,14 +412,7 @@ Database: SQLite
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=github-dark&hide_border=true&area=true" />
 </p>
 
-<!-- Additional Highlights -->
-<h3 align="center" style="margin-top:40px; color:#f5c242;">Key GitHub Metrics</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-3000%2B-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Longest_Streak-120_days-green?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Repos-25-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top_Contributor-Yes-yellow?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+
 
 <p align="center" style="margin-top:15px; font-size:16px; color:#c9d1d9;">
   This dashboard highlights my active coding streaks, most-used languages, productive contributions, and real-world project activity.  

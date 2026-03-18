@@ -1,180 +1,259 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Saksham%20Gaikwad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Saksham+Gaikwad;AI+Engineer+%7C+Backend+Developer;Full+Stack+Developer;Building+Scalable+AI+Systems" />
+</h1>
 
-<h3 align="center">
-  <b>AI Engineer | Backend Developer | Full Stack Developer</b>
-</h3>
+<h3 align="center">AI Engineer | Backend Developer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
 </p>
 
 ---
 
-<h2 align="center">About Me</h2>
+## About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-<p align="center">
 I am a Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR, focused on building scalable backend systems and intelligent applications.
-</p>
 
-<p align="center">
 Strong focus on Backend Engineering and AI Integration with hands-on experience in real-world systems. Skilled in Data Structures, Algorithms, and System Design.
-</p>
 
-<p align="center">
-Finance (Stock AI Systems) • Agriculture (Smart Farming Platforms) • Public Safety (Emergency Systems)
-</p>
+Actively developing startup-level AI products across domains such as:
+- Finance (Stock AI Systems)
+- Agriculture (Smart Farming Platforms)
+- Public Safety (Emergency Systems)
 
 ---
 
-<h2 align="center">Technical Skills</h2>
+## Technical Skills
 
-<h3 align="center">Programming Languages</h3>
+### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 </p>
-<p align="center">Python • C • C++ • Java • JavaScript</p>
 
----
-
-<h3 align="center">Backend & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,django,flask" />
-</p>
-<p align="center">
-FastAPI • Spring Boot • Node.js • Django • Flask • REST APIs • Microservices
+Python • C • C++ • Java • JavaScript
 </p>
 
 ---
 
-<h3 align="center">AI / Machine Learning</h3>
+### Backend Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-<p align="center">
-TensorFlow • PyTorch • OpenCV • Pandas • NumPy • Matplotlib • Scikit-learn • Data Science
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
 </p>
 
----
-
-<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
-</p>
-<p align="center">
-AWS • Docker • Git • GitHub • Linux • CI/CD (Basics)
+Spring Boot • FastAPI • Node.js • REST APIs • Microservices (Basic)
 </p>
 
 ---
 
-<h3 align="center">Databases & Frontend</h3>
+### Frontend Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
+
 <p align="center">
-MySQL • PostgreSQL • MongoDB • HTML • CSS • JavaScript • React
+React • HTML5 • CSS3 • Responsive Design
 </p>
 
 ---
 
-<h3 align="center">Core Concepts</h3>
+### AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="center">
+Pandas • NumPy • Matplotlib • Machine Learning • Data Science
+</p>
+
+---
+
+### Database Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+<p align="center">
+SQL • PostgreSQL • Database Design
+</p>
+
+---
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+<p align="center">
+Git • GitHub • Docker • Linux • VS Code
+</p>
+
+---
+
+### Core Concepts
+
 <p align="center">
 Data Structures • Algorithms • System Design • Backend Architecture • Problem Solving
 </p>
 
 ---
 
-<h2 align="center">Projects</h2>
+## Projects
 
 ---
 
-<h3 align="center">STOCK-AI — AI-Based Trading Assistant</h3>
+### STOCK-AI — AI-Based Trading Assistant
 
-<p align="center">
 AI-powered chatbot system designed to analyze stock market data and assist users with intelligent insights.
-</p>
 
-<p align="center">
-AI-powered stock prediction • Real-time stock data • Chatbot interface • Portfolio tracking • Market sentiment • Smart alerts • Historical analysis • Authentication
-</p>
+**Key Features:**
+- AI-powered stock prediction and trend analysis  
+- Real-time stock data fetching and visualization  
+- Chatbot-style interface  
+- Portfolio tracking and analytics  
+- Market news and sentiment analysis  
+- Smart alerts for stock movement  
+- Historical data analysis with charts  
+- Secure authentication system  
 
-<p align="center">
-HTML • CSS • JavaScript • FastAPI • TensorFlow • PostgreSQL • LLM
-</p>
-
----
-
-<h3 align="center">Saksham’s AI — Developer Assistant</h3>
-
-<p align="center">
-Code upload • Chat interaction • Bug detection • Code explanation • RAG-based search
-</p>
-
-<p align="center">
-HTML • CSS • JavaScript • FastAPI • Phi-2 • SentenceTransformers
-</p>
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript  
+Backend: FastAPI (Python)  
+AI/ML: TensorFlow / PyTorch  
+Database: PostgreSQL / MongoDB  
+APIs: Alpha Vantage / Yahoo Finance  
+LLM: Llama 3 / OpenAI  
 
 ---
 
-<h3 align="center">FarmFusion AI — Smart Agriculture Platform</h3>
+### Saksham’s AI — Developer Assistant
 
-<p align="center">
-Disease Detection • Water Calculator • Weather Planning • IoT Integration • Dashboard • Marketplace • Community
-</p>
+AI-powered coding assistant that understands and analyzes uploaded code.
 
-<p align="center">
-HTML • CSS • JavaScript • FastAPI • TensorFlow • OpenCV • MongoDB
-</p>
+**Key Features:**
+- Code upload and indexing  
+- Chat-based AI interaction  
+- Code explanation engine  
+- Bug detection system  
+- Code complexity analysis  
+- RAG-based responses  
+- Vector search using embeddings  
 
----
-
-<h3 align="center">SequrHer Web — Safety Platform</h3>
-
-<p align="center">
-SOS • Live tracking • Voice trigger • Fake call • Emergency chatbot • Police alerts
-</p>
-
-<p align="center">
-HTML • CSS • JavaScript • FastAPI • APIs
-</p>
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript  
+Backend: FastAPI  
+AI Models: Microsoft Phi-2  
+RAG: SentenceTransformers  
+Processing: Python AST  
 
 ---
 
-<h3 align="center">Expense Manager</h3>
-<p align="center">
-React • Spring Boot • H2 • Maven
-</p>
+### FarmFusion AI — Smart Agriculture Platform
+
+AI-based platform helping farmers with smart decision-making.
+
+**Key Features:**
+- AI Plant Disease Detection (Image-based)
+- Smart Water & Nutrient Calculator
+- Weather-Based Crop Planning
+- IoT Device Integration (Automation & Monitoring)
+- Real-Time Dashboard (3D UI)
+- E-Marketplace for Farmers
+- Farmer Community Platform (Chat + Feed)
+- AI Crop Planner & Scheduler
+
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript (3D animations, advanced UI/UX)
+Backend: Python (FastAPI)
+AI/ML: TensorFlow / OpenCV (for disease detection)
+Database: SQLite / MongoDB
+IoT Integration: Sensors + APIs
 
 ---
 
-<h3 align="center">Stock Predictor</h3>
-<p align="center">
-Python • Machine Learning
-</p>
+### Expense Manager
+
+Full-stack application for tracking and analyzing expenses.
+
+**Key Features:**
+- Expense tracking and categorization  
+- Dashboard analytics  
+- Monthly insights with charts  
+- CRUD operations  
+
+**Tech Stack:**
+Frontend: React + Material UI  
+Backend: Spring Boot  
+Database: H2  
+Tools: Maven  
 
 ---
 
-<h3 align="center">Constitution AI</h3>
-<p align="center">
-HTML • CSS • JavaScript • FastAPI • SQLite
-</p>
+### Stock Predictor
+
+Machine learning system for stock prediction.
+
+**Key Features:**
+- Data preprocessing  
+- Predictive analytics  
+- Buy/Sell/Hold recommendations  
+
+**Tech Stack:** Python, Machine Learning  
 
 ---
 
-<h2 align="center">Achievements</h2>
+### SequrHer Web — Safety Platform
 
-<p align="center">
-Solved 200+ LeetCode problems • 10+ hackathons • Real-world projects • Backend & AI focus
-</p>
+Emergency support platform for women safety.
+
+**Key Features:**
+- One-Tap SOS Button – Sends emergency alerts with live location
+- Live Location Tracking – Continuous GPS sharing with trusted contacts
+- Voice-Activated Trigger – Activate SOS using keywords like “help”
+- Fake Call Feature – Escape unsafe situations quickly
+- AI Emergency Chatbot – Guides users during panic situations
+- Nearby Police Alert System – Alerts nearest authoritie
+
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript (3D animations, responsive UI)
+Backend: Python (FastAPI)
+APIs: Geolocation API, Speech Recognition API
+Database: (Planned/Optional) Firebase / MongoDB
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
+### Constitution AI — Learning Platform
+
+Educational platform for learning the Indian Constitution.
+
+**Key Features:**
+- Learn Articles, Rights, and Duties  
+- Backend-driven content  
+- Contact system with database  
+- Extendable with AI chatbot  
+
+**Tech Stack:**
+Frontend: HTML, CSS, JavaScript  
+Backend: FastAPI  
+Database: SQLite  
+
+---
+
+## Achievements
+
+- Solved 200+ LeetCode problems  
+- Participated in 10+ hackathons  
+- Built multiple real-world projects  
+- Strong focus on backend and AI systems  
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=tokyonight" />
@@ -192,7 +271,7 @@ Solved 200+ LeetCode problems • 10+ hackathons • Real-world projects • Bac
 
 ---
 
-<h2 align="center">Contribution Graph</h2>
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=tokyo-night&hide_border=true&area=true" />
@@ -200,7 +279,7 @@ Solved 200+ LeetCode problems • 10+ hackathons • Real-world projects • Bac
 
 ---
 
-<h2 align="center">Connect</h2>
+## Connect
 
 <p align="center">
   <a href="https://github.com/sakshamgaikwad-tech">
@@ -216,8 +295,6 @@ Solved 200+ LeetCode problems • 10+ hackathons • Real-world projects • Bac
 
 ---
 
-<h2 align="center">Professional Focus</h2>
+## Professional Focus
 
-<p align="center">
 Focused on building scalable backend systems and AI-driven solutions that solve real-world problems using structured engineering and data-driven approaches.
-</p>

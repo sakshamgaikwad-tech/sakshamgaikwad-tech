@@ -13,52 +13,44 @@
 
 ## About Me
 
+I am a Computer Science student specializing in Artificial Intelligence, Machine Learning, and Systems Engineering, focused on building scalable, high-performance systems that solve real-world problems.
 
-I’m a **Computer Science student specializing in Artificial Intelligence, Machine Learning, and VR**, focused on building **scalable, distributed, and intelligent systems** that solve real-world problems at scale.
+I don’t just write code — I design systems.
 
-I approach engineering with a **systems-first mindset** — going beyond code to design **robust architectures, efficient data pipelines, and high-performance backend systems**.
+My work is driven by a deep focus on **scalability, performance, and real-world impact**, combining backend engineering with intelligent systems to build production-grade applications.
 
-My core expertise lies at the intersection of:
-- **Backend Engineering (Scalable APIs & Microservices)**
-- **AI/ML Integration (Data-driven intelligent systems)**
-- **System Design (High-level architecture & optimization)**
+## Core Expertise
 
-I have a strong foundation in:
-- Data Structures & Algorithms  
-- System Design (HLD & LLD)  
-- Backend Architecture (production-grade systems)  
+- Backend Engineering — scalable APIs, microservices, distributed systems  
+- AI/ML Systems — intelligent, data-driven applications  
+- System Design — high-level architecture, performance optimization  
+- Data Structures & Algorithms — strong problem-solving foundation  
 
----
+## What Sets Me Apart
 
-### What I Build
+- Think in terms of systems, not just features  
+- Build for scale, latency, and reliability from day one  
+- Focus on clean, maintainable, production-ready code  
+- Apply real-world engineering practices, not just theory  
 
-I focus on building **real-world, high-impact products**, not just projects:
+## Selected Work
 
--  **AI-Driven Finance Systems**  
-  Intelligent stock analysis platforms with automated insights and scalable data pipelines  
+- **FarmFusion AI** — Smart agriculture platform integrating AI-based disease detection, IoT automation, and real-time analytics  
+- **SequrHer** — AI-powered safety system with live tracking, voice-triggered alerts, and emergency response architecture  
+- **AI Finance Systems** — Intelligent platforms for stock analysis with automated insights and scalable data pipelines  
 
--  **Smart Agriculture Platforms — FarmFusion AI**  
-  End-to-end hydroponic systems with AI disease detection, IoT automation, and real-time analytics  
+## Engineering Mindset
 
--  **AI-Powered Safety Systems — SequrHer**  
-  Real-time emergency response systems with live tracking, voice triggers, and intelligent assistance  
+I approach every project like a real-world system:
 
----
+- Design for millions of users, not just demos  
+- Optimize for performance and efficiency  
+- Prioritize reliability and fault tolerance  
+- Continuously refine architecture and code quality  
 
-### Engineering Mindset
+## Vision
 
-- Think in terms of **scalability, latency, and reliability**
-- Design systems like **real-world production architectures**
-- Write **clean, maintainable, and extensible code**
-- Follow **industry-level best practices**
-
----
-
-### Vision
-
-To build systems that operate at **massive scale**, solve **meaningful global problems**, and meet the standards of top-tier companies.
-
-I’m actively working towards becoming a **world-class Software Engineer**, capable of designing and scaling systems used by millions.
+To build and scale systems that impact millions of users globally, and to engineer solutions that meet the standards of top-tier companies.
 
 ## Technical Skills
 

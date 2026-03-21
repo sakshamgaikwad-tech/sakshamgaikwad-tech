@@ -333,7 +333,7 @@ Database: SQLite
   <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-skyblue?style=for-the-badge&logo=leetcode&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Hackathons-10%2B-orange?style=for-the-badge&logo=devpost&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Projects-Real-World%20Impact-9cf?style=for-the-badge&logo=github&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Backend%20%26%20AI-Expert-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20%26%20AI--ff69b4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-Mastery-blueviolet?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/ML%20Models-Trained-success?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Global-Impact-0078D7?style=for-the-badge&logo=world&logoColor=white" />

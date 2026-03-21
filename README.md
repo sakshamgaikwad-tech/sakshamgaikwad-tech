@@ -33,11 +33,6 @@ My work is driven by a deep focus on **scalability, performance, and real-world 
 - Focus on clean, maintainable, production-ready code  
 - Apply real-world engineering practices, not just theory  
 
-## Selected Work
-
-- **FarmFusion AI** — Smart agriculture platform integrating AI-based disease detection, IoT automation, and real-time analytics  
-- **SequrHer** — AI-powered safety system with live tracking, voice-triggered alerts, and emergency response architecture  
-- **AI Finance Systems** — Intelligent platforms for stock analysis with automated insights and scalable data pipelines  
 
 ## Engineering Mindset
 

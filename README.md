@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20Systems-orange?style=for-the-badge" />
  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-brightgreen?style=for-the-badge" />
-  p align="center">
-</p>
-</p>
+
 </p>
 
 

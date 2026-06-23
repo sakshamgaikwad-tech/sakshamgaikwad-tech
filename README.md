@@ -384,18 +384,37 @@ Database: SQLite
 
 ## Connect
 
+## Connect
+
 <p align="center">
   <a href="https://github.com/sakshamgaikwad-tech">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+
   <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="mailto:sakshamgaikwad1377@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img
+      src="https://cdn.simpleicons.org/leetcode/FFA116"
+      alt="LeetCode"
+      width="48"
+      height="48"
+    />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/sakshamgaikwad-tech">GitHub</a> •
+  <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">LinkedIn</a> •
+  <a href="mailto:sakshamgaikwad1377@gmail.com">Email</a> •
+  <a href="https:/https://leetcode.com/u/saksham_gaikwad/">LeetCode</a>
+</p>
 ---
 
 ## Professional Focus

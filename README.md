@@ -413,7 +413,14 @@ Database: SQLite
   <a href="https://github.com/sakshamgaikwad-tech">GitHub</a> •
   <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">LinkedIn</a> •
   <a href="mailto:sakshamgaikwad1377@gmail.com">Email</a> •
-  <a href="/https://leetcode.com/u/saksham_gaikwad/">LeetCode</a>
+<a href="https://leetcode.com/u/saksham_gaikwad/">
+  <img
+    src="https://cdn.simpleicons.org/leetcode/FFA116"
+    alt="LeetCode"
+    width="48"
+    height="48"
+  />
+</a>
 </p>
 ---
 

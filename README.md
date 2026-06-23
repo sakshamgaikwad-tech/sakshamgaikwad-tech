@@ -336,7 +336,7 @@ Database: SQLite
 <h2 align="center">Achievements & Milestones</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-skyblue?style=for-the-badge&logo=leetcode&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-skyblue?style=for-the-badge&logo=leetcode&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Hackathons-10%2B-orange?style=for-the-badge&logo=devpost&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Projects-Real-World%20Impact-9cf?style=for-the-badge&logo=github&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Backend%20%26%20AI--ff69b4?style=for-the-badge&logo=python&logoColor=white" />
@@ -346,7 +346,7 @@ Database: SQLite
 </p>
 
 <p align="center" style="margin-top:15px; font-size:16px;">
-- Solved 200+ LeetCode problems, mastering algorithms and problem-solving skills at scale.  
+- Solved 250+ LeetCode problems, mastering algorithms and problem-solving skills at scale.  
 - Participated in 10+ hackathons, building innovative AI and backend solutions under tight deadlines.  
 - Delivered multiple real-world projects, including FarmFusion AI and SequrHer, impacting users globally.  
 - Strong focus on scalable backend systems and AI integration, with production-ready code and clean architectures.  

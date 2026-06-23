@@ -383,46 +383,43 @@ Database: SQLite
 </p>
 
 ## Connect
-
-## Connect
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/sakshamgaikwad-tech">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="60" />
   </a>
 
   <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" />
   </a>
 
   <a href="mailto:sakshamgaikwad1377@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" />
   </a>
 
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img
-      src="https://cdn.simpleicons.org/leetcode/FFA116"
-      alt="LeetCode"
-      width="48"
-      height="48"
-    />
+  <a href="https://leetcode.com/u/saksham_gaikwad/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sakshamgaikwad-tech">GitHub</a> •
-  <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">LinkedIn</a> •
-  <a href="mailto:sakshamgaikwad1377@gmail.com">Email</a> •
-  <img
-    src="https://cdn.simpleicons.org/leetcode/FFA116"
-    alt="LeetCode"
-    width="48"
-    height="48"
-  />
-</a>
-</p>
----
+  <a href="https://github.com/sakshamgaikwad-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
+  <a href="https://www.linkedin.com/in/saksham-gaikwad-705b0b31b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:sakshamgaikwad1377@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/saksham_gaikwad/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 ## Professional Focus
 
 Focused on building scalable backend systems and AI-driven solutions that solve real-world problems using structured engineering and data-driven approaches. 

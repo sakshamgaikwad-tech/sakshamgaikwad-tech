@@ -367,37 +367,7 @@ Database: SQLite
 
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content:center; gap:20px; margin-top:25px;">
 
-  <!-- Profile Card -->
-  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#58a6ff;">Profile Summary</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamgaikwad-tech&theme=dark" />
-  </div>
 
-  <!-- Repo Languages -->
-  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#f5c242;">Repos per Language</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sakshamgaikwad-tech&theme=dark" />
-  </div>
-
-  <!-- Most Commit Language -->
-  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#34d058;">Top Commit Language</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakshamgaikwad-tech&theme=dark" />
-  </div>
-
-  <!-- Overall Stats -->
-  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#ff7b72;">Overall Stats</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakshamgaikwad-tech&theme=dark" />
-  </div>
-
-  <!-- Productive Time -->
-  <div style="background-color:#0d1117; border-radius:15px; padding:20px; width:300px; box-shadow:0 5px 15px rgba(0,0,0,0.3); text-align:center;">
-    <h3 style="color:#9b7cd8;">Productive Time</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sakshamgaikwad-tech&theme=dark&utcOffset=5.5" />
-  </div>
-
-</div>
 
 <!-- Contribution Graph -->
 <h3 align="center" style="margin-top:40px; color:#58a6ff;">Contribution Graph</h3>

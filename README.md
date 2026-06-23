@@ -1,20 +1,37 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Saksham%20Gaikwad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=250&section=header&text=Saksham%20Gaikwad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">
-  <b>AI Engineer | Backend Developer | Full Stack Developer</b>
+  🚀 AI Engineer | Backend Developer | Full Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&size=22&duration=3000&pause=700&color=5AC8FA&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Systems;Backend+Focused+Engineer;Strong+in+DSA+and+System+Design;Designing+Real-World+Solutions" />
-  <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views--blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20Systems-orange?style=for-the-badge" />
- <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-brightgreen?style=for-the-badge" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Text&weight=600&size=28&duration=2500&pause=800&color=5AC8FA&center=true&vCenter=true&width=1000&lines=Building+Scalable+AI+Systems;Backend+Engineering+%7C+FastAPI+%7C+Spring+Boot;Machine+Learning+%7C+Deep+Learning;Strong+in+DSA+and+System+Design;Designing+Production-Grade+Applications;Creating+Real-World+Impact+Through+Technology" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Open%20for%20Opportunities-0A84FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Backend%20%7C%20Systems-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathons-10%2B-success?style=for-the-badge&logo=devpost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshamgaikwad-tech&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshamgaikwad-tech&label=Profile%20Views&color=0A84FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sakshamgaikwad-tech?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/sakshamgaikwad-tech?affiliations=OWNER&style=for-the-badge&color=yellow" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
+</p>
+
 
 
 ## About Me

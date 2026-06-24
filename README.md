@@ -437,7 +437,3 @@ Database: SQLite
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
-## Professional Focus
-
-Focused on building scalable backend systems and AI-driven solutions that solve real-world problems using structured engineering and data-driven approaches. 
-do not change any contenet and do not change anything just make all informatiom in center

@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  🚀 AI Engineer | Backend Developer | Full Stack Developer
+  AI Engineer | Backend Developer | Full Stack Developer
 </h3>
 
 <p align="center">

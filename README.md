@@ -36,37 +36,53 @@
 
 ## About Me
 
+## 👨‍💻 About Me
+
+```javascript
 const saksham = {
+  name: "Saksham Gaikwad",
   pronouns: "he/him",
   location: "Maharashtra, India",
+
   education: "B.Sc. Computer Science (AI, ML & VR)",
+
   specialization: [
     "Artificial Intelligence",
     "Machine Learning",
     "Systems Engineering"
   ],
+
   currentFocus: [
     "Backend Development",
-    "Data Structures & Algorithms",
     "Scalable System Design",
+    "Data Structures & Algorithms",
     "AI-Powered Applications"
   ],
+
   interests: [
     "Software Engineering",
     "Open Source",
     "Cloud Computing",
     "Problem Solving"
   ],
+
   philosophy: "I don't just write code — I design systems.",
-  strengths: [
-    "Scalability",
-    "Performance Optimization",
-    "Backend Architecture",
-    "Real-World Impact"
+
+  mission:
+    "Building intelligent, high-performance systems that solve real-world problems through scalable engineering and AI.",
+
+  skills: [
+    "C++",
+    "Python",
+    "JavaScript",
+    "SQL",
+    "Machine Learning",
+    "System Design"
   ],
-  mission: "Building intelligent, high-performance systems that solve real-world problems.",
+
   codingStyle: "Clean, scalable & maintainable"
 };
+```
 ## Core Expertise
 
 - Backend Engineering — scalable APIs, microservices, distributed systems  

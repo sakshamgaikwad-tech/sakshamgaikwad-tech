@@ -36,12 +36,37 @@
 
 ## About Me
 
-I am a Computer Science student specializing in Artificial Intelligence, Machine Learning, and Systems Engineering, focused on building scalable, high-performance systems that solve real-world problems.
-
-I don’t just write code — I design systems.
-
-My work is driven by a deep focus on **scalability, performance, and real-world impact**, combining backend engineering with intelligent systems to build production-grade applications.
-
+const saksham = {
+  pronouns: "he/him",
+  location: "Maharashtra, India",
+  education: "B.Sc. Computer Science (AI, ML & VR)",
+  specialization: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Systems Engineering"
+  ],
+  currentFocus: [
+    "Backend Development",
+    "Data Structures & Algorithms",
+    "Scalable System Design",
+    "AI-Powered Applications"
+  ],
+  interests: [
+    "Software Engineering",
+    "Open Source",
+    "Cloud Computing",
+    "Problem Solving"
+  ],
+  philosophy: "I don't just write code — I design systems.",
+  strengths: [
+    "Scalability",
+    "Performance Optimization",
+    "Backend Architecture",
+    "Real-World Impact"
+  ],
+  mission: "Building intelligent, high-performance systems that solve real-world problems.",
+  codingStyle: "Clean, scalable & maintainable"
+};
 ## Core Expertise
 
 - Backend Engineering — scalable APIs, microservices, distributed systems  

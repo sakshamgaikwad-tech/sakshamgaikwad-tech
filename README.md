@@ -42,7 +42,7 @@
 const saksham = {
   name: "Saksham Gaikwad",
   pronouns: "he/him",
-  location: "Maharashtra, India",
+  location: "Nashik Maharashtra, India",
 
   education: "B.Sc. Computer Science (AI, ML & VR)",
 

@@ -294,8 +294,7 @@ Data Structures • Algorithms • System Design • Backend Architecture • Pr
   Perfectly tailored for recruiters to quickly assess my impact and skills.
 </p>
 
-## Connect
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/sakshamgaikwad-tech">

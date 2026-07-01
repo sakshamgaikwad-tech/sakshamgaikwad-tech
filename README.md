@@ -36,7 +36,7 @@
 
 ## About Me
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const saksham = {

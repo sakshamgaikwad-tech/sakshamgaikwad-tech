@@ -70,14 +70,7 @@ const saksham = {
   mission:
     "Building intelligent, high-performance systems that solve real-world problems through scalable engineering and AI.",
 
-  skills: [
-    "C++",
-    "Python",
-    "JavaScript",
-    "SQL",
-    "Machine Learning",
-    "System Design"
-  ],
+ 
 
   codingStyle: "Clean, scalable & maintainable"
 };

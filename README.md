@@ -323,4 +323,13 @@ Data Structures • Algorithms • System Design • Backend Architecture • Pr
   <a href="https://leetcode.com/u/saksham_gaikwad/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
+  <!-- Contribution Graph -->
+<h3 align="center" style="margin-top:40px; color:#58a6ff;">Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+
+
 </p>

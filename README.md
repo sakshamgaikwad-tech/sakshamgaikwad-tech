@@ -281,13 +281,6 @@ Data Structures • Algorithms • System Design • Backend Architecture • Pr
 
 
 
-<!-- Contribution Graph -->
-<h3 align="center" style="margin-top:40px; color:#58a6ff;">Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamgaikwad-tech&theme=github-dark&hide_border=true&area=true" />
-</p>
-
-
 
 <p align="center" style="margin-top:15px; font-size:16px; color:#c9d1d9;">
   This dashboard highlights my active coding streaks, most-used languages, productive contributions, and real-world project activity.  
